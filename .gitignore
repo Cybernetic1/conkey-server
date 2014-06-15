@@ -1,0 +1,8 @@
+.DS_Store
+node_modules
+yky.txt
+out.txt
+test.json
+db/*
+db/journal/*
+db/_tmp/*
