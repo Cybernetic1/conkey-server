@@ -6,3 +6,4 @@ test.json
 db/*
 db/journal/*
 db/_tmp/*
+!db/conkey_db.json
